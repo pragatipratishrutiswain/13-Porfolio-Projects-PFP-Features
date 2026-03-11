@@ -9,7 +9,7 @@
 7️⃣ Setting up report refresh (Scheduled and Incremental)<br>
 8️⃣ Implementing RLS (Row Level Securiry)
 
-## Bonus (All essential aspects of Reporting):
+## All essential aspects of Reporting:
 - Conditional Formatting
 - Troubleshoot Data load issues
 - Using advanced editor for data cleaning
