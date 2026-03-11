@@ -1,5 +1,5 @@
 # 13-Porfolio-Projects-Features
-## SQL + DAX | PFP
+## SQL + DAX
 1️⃣ Data Gathering & Integration<br>
 2️⃣ Data Cleaning & Profiling in SQL<br>
 3️⃣ Data Modeling (Star and Snowflake Schema)<br>
