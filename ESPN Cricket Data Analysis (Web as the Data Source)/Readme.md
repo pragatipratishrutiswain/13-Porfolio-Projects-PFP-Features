@@ -1,4 +1,4 @@
-## In this project we will do -
+# In this project we will do -
 1️⃣ Web Scrapping in Power BI<br>
 2️⃣ Use publicly available ESPN cricket data online<br>
 3️⃣ We are interested only in ODIs
@@ -65,3 +65,12 @@
 - Rename Column1.1 to Column1
   
 ## Setting Headers as per the web in Power Query
+- Go to ESPN website table, copy the column names
+- open an excel sheet and paste the names
+- Copy the column names then in the next row type Cntrl+Alt+V to paset values
+- Remove the first record, Cntrl - (minus)
+- Copy the column names, go to power query, Home tab -> Enter data -> Paste column names, undo headers -> OK
+- Name the table as "Headers"
+- Select Query1, from the Ribbon choose Append Queries as New, first table Headers, second table Query1, click Ok
+- Home tab, Use first row as Headers
+- Correct and clean the data types of each column
