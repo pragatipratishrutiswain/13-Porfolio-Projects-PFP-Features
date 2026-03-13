@@ -1,4 +1,4 @@
-# 13-Porfolio-Projects-Features
+# 13 Porfolio Projects with Features
 ## SQL + DAX
 1️⃣ Data Gathering & Integration<br>
 2️⃣ Data Cleaning & Profiling in SQL<br>
