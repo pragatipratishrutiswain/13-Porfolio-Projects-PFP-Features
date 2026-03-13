@@ -70,7 +70,29 @@
 - Copy the column names then in the next row type Cntrl+Alt+V to paste values
 - Remove the first record, Cntrl - (minus)
 - Copy the column names, go to power query, Home tab -> Enter data -> Paste column names, undo headers -> OK
+  We can see that all the column names are in the first record, 1st row after column headers.
 - Name the table as "Headers"
-- Select Query1, from the Ribbon choose Append Queries as New, first table Headers, second table Query1, click Ok
+- Select Query1, from the Ribbon choose "Append Queries as New", first table Headers, second table Query1, click Ok
 - Home tab, Use first row as Headers
-- Correct and clean the data types of each column
+- Clean and format every column to data type text, decimal or whole number.
+- Rename the Appended table to Cricket Data from Append1.
+- Hide other tables (Headers & Query1) for the report view.
+- Cloase & Load
+
+
+Headers Meaning - 
+Player - Payer Name
+Span - first match to the last match year
+Mat - No of games played by the player
+Inns - The number of innings a player has actually batted in
+NO - No result
+RUNS - Runs scored by the player
+HS - Highest score
+AV - Batting Average
+BF - Balls Faced
+SR - Strike Rate
+100 - Century
+50 - Half century
+4s - No of 4 runs
+6s - No of 6 runs
+
