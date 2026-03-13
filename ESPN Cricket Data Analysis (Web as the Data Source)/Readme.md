@@ -38,7 +38,7 @@
 - Remove last column (Unnecessary column)
 - Close & Apply
  
-# Method 2 (Better way for data cleaning)- Incase of Multiple table
+# Method 2 (Better way for data cleaning) - Incase of Multiple table
 - **Add table using examples**
 - Copy the first row from the original table
 - Copy the second row from the original table
