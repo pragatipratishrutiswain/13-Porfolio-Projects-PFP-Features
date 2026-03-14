@@ -80,7 +80,7 @@
 - Cloase & Load
 
 
-## Headers Meaning
+## Batting Headers Meaning
 Player	-The name of the batsman whose performance state are being recorded.<br>
 
 Span	- The duaration of the player's career (start year - end year).<br>
@@ -111,3 +111,36 @@ SR -	Strike Rate: The number of runs scored per 100 balls faced (Runs/Ball * 100
 
 6s	- The number of sixes (6s) scored by the batsman.<br>
 
+## Bowling Headers Meaning
+Overs - The total number of overs bowled by the player in all matches.
+
+Mdns - THe total number of maiden overs bowled vy the player.
+
+Runs - The total number of runs conceded by the bowler in all matches.
+
+Wkts - The total number of wickets taken by the bowler.
+
+BBI - Best Bowling Innings: The best bowling performance in a single innings (wickets/overs).
+
+Econ - Economy Rate: The average number of runs conceded per over bowled (Runs/Overs).
+
+SR - Strike Rate: The average number of balls bowled per wickettaken (Balls/Wkts).
+
+4 - The number of times the bowler has taken 4 or more wickets in an innings.
+
+5 - The number of times the bowler has taken 5 or more wickets in am innings.
+
+## Fielding Headers Meaning
+Dis - The total number of dismissals the player has been involved in (catches, stumpings).
+
+Ct - The number of catches the playter has taken in their career.
+
+St - The number of stumpings made by the player.
+
+Ct Wk - The number of catches the player has taken as a wicketkeeper.
+
+Ct Fi - The number of catches taken by the player as a fielder (not as a wicketkeeper).
+
+MD - The number of match days or the number of matches the player has played.
+
+D/I - Dismissals per innings ratio, showing the number of dismissals per innings.
