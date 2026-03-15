@@ -147,4 +147,9 @@ D/I - Dismissals per innings ratio, showing the number of dismissals per innings
 
 # Objective:
 Create a three page Power BI report, each page should contain the details of Batting, Bowling and Fielding respectively.<br>
-The user should be given the flexibility to select the name any given player and be able to see all the details of that particular player on each page. 
+The user should be given the flexibility to select the name any given player and be able to see all the details of that particular player on each page.
+
+## ChatGPT:
+Suggest three colour combinations to be used for the Power BI report design, along with their hex codes.
+
+##
